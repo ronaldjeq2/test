@@ -1,0 +1,642 @@
+[
+    {
+      "producto": "Detergente en Polvo ACE Limón Bolsa 4Kg",
+      "sku": "41389",
+      "price": "S/ 36.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/656816-220-220/20159751.jpg?v=637449606090170000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente Líquido BOLÍVAR Floral Doypack 3L",
+      "sku": "99964332",
+      "price": "S/ 32.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/519922-220-220/20206170.jpg?v=637417823571930000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente en polvo ARIEL con Downy Bolsa 4Kg",
+      "sku": "15566",
+      "price": "S/ 47.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/656216-220-220/20112038.jpg?v=637449597356770000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente en Polvo SAPOLIO Bebé Bolsa 2Kg",
+      "sku": "25463",
+      "price": "S/ 17.00",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/537076-220-220/20102646.jpg?v=637421379278600000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente Líquido BOREAL Floral Frasco 2000ml",
+      "sku": "99968152",
+      "price": "S/ 16.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/542113-220-220/20196076.jpg?v=637424340620800000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente Líquido BOLÍVAR Matic Doypack 3L",
+      "sku": "99964333",
+      "price": "S/ 32.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/519923-220-220/20206189.jpg?v=637417823872230000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente en Polvo AMOR Bolsa 800g",
+      "sku": "26127",
+      "price": "S/ 10.70",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/537101-220-220/20135525.jpg?v=637421380136900000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente en Polvo SAPOLIO Floral Bolsa 2Kg",
+      "sku": "25526",
+      "price": "S/ 17.00",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/537075-220-220/20102647.jpg?v=637421379244070000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente líquido ARIEL Concentrado Galonera 3000Ml",
+      "sku": "23689",
+      "price": "S/ 59.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/656455-220-220/20128351.jpg?v=637449603551730000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente en polvo OPAL Ultra multipower Floral Bolsa 5.8Kg",
+      "sku": "23354",
+      "price": "S/ 54.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/537090-220-220/20127648.jpg?v=637421379736600000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente líquido BOREAL Lavanda Galonera 2L",
+      "sku": "15332",
+      "price": "S/ 16.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/537108-220-220/20106278.jpg?v=637421380387200000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente en polvo BOREAL Limón Bolsa 900Gr",
+      "sku": "8282",
+      "price": "S/ 7.20",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/1037203-220-220/20037622.jpg?v=637498807145100000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente líquido SAPOLIO MATIC Ternura Botella 2L",
+      "sku": "8172",
+      "price": "S/ 17.80",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/537106-220-220/20072374.jpg?v=637421380323870000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+      "producto": "Detergente ARIEL Regular Bolsa 2Kg + Suavizante de Ropa DOWNY Floral Botella 600ml",
+      "sku": "100137605",
+      "price": "S/ 23.90",
+      "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2495496-220-220/20245775.jpg?v=637683996151800000",
+      "stock": 120,
+      "categoriees": "detergente"
+    },
+    {
+        "producto": "Yogurt Griego VAKIMU Original Balde 1Kg",
+        "sku": "52790",
+        "price": "S/ 15.70",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561534-220-220/20175797.jpg?v=637427434783800000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Griego Mango con Fresa VAKIMU YOG Pote 1Kg",
+        "sku": "69874",
+        "price": "S/ 15.20",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561657-220-220/20187692.jpg?v=637427439332800000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Griego VAKIMU Frutos del Bosque Balde 1Kg",
+        "sku": "52789",
+        "price": "S/ 15.20",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561533-220-220/20175794.jpg?v=637427434752070000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Vegano VAKIMU Mix Berries Pote 500g",
+        "sku": "100099512",
+        "price": "S/ 12.40",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2053405-220-220/20236406.jpg?v=637612217371830000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Quark VAKIMU Natural Pote 500g",
+        "sku": "100120578",
+        "price": "S/ 13.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2259372-220-220/20237178.jpg?v=637647639450600000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt LAIVE con Cultivos Probióticos Fresa Galonera 1.8Kg",
+        "sku": "5392",
+        "price": "S/ 9.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/1623919-220-220/124019.jpg?v=637571264227470000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt GLORIA Lúcuma Parcialmente Descremado Galonera 1.9Kg",
+        "sku": "100125982",
+        "price": "S/ 9.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2354224-220-220/20237894.jpg?v=637665800751100000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt GLORIA Guanábana Parcialmente Descremado Galonera 1.9Kg",
+        "sku": "100125980",
+        "price": "S/ 9.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2354216-220-220/20237893.jpg?v=637665800144300000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Bebible GLORIA Fresa Botella 1Kg",
+        "sku": "82756",
+        "price": "S/ 6.20",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561765-220-220/20192547.jpg?v=637427443242800000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Griego LAIVE Frutos Rojos Botella 800g",
+        "sku": "49142",
+        "price": "S/ 9.30",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561487-220-220/20172327.jpg?v=637427433255800000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt SBELT Vainilla Francesa Galonera 1.8Kg",
+        "sku": "5443",
+        "price": "S/ 10.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/706638-220-220/132922.jpg?v=637472862420970000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt LAIVE con Cultivos Probióticos Vainilla Francesa Galonera 1.8Kg",
+        "sku": "4874",
+        "price": "S/ 9.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/1623918-220-220/124020.jpg?v=637571264192630000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Bebible GLORIA Tutifruti Botella 1Kg",
+        "sku": "82770",
+        "price": "S/ 6.20",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561766-220-220/20192558.jpg?v=637427443272000000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Bebible GLORIA Durazno Botella 1Kg",
+        "sku": "82750",
+        "price": "S/ 6.20",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561767-220-220/20192549.jpg?v=637427443302330000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Bebible MILKITO Fresa Galonera 1.9Kg",
+        "sku": "78166",
+        "price": "S/ 9.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561730-220-220/20191625.jpg?v=637427442050630000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Griego DANLAC Cultivos Probióticos Frasco 420g",
+        "sku": "53407",
+        "price": "S/ 13.00",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561603-220-220/20183186.jpg?v=637427437380570000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Natural DANLAC Botella 900g",
+        "sku": "18701",
+        "price": "S/ 10.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/345004-220-220/20110509.jpg?v=637287873424700000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt YOMOST Fresa Paquete 6un Caja 180ml",
+        "sku": "5601",
+        "price": "S/ 10.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/561998-220-220/1862141001.jpg?v=637428278275430000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt Griego GLORIA Batido con Miel Vaso 115g",
+        "sku": "5476",
+        "price": "S/ 3.89",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/412936-220-220/20073879.jpg?v=637365790740970000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Yogurt GLORIA Frutado Fresa Vaso 120g",
+        "sku": "4951",
+        "price": "S/ 1.70",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/412871-220-220/165846.jpg?v=637365779393170000",
+        "stock": 120,
+        "categoriees": "yogurt"
+      },
+      {
+        "producto": "Cerveza CORONITA Extra 6 Pack Botella 210ml",
+        "sku": "5579",
+        "price": "S/ 18.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/312675-220-220/20040132.jpg?v=637219605300630000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza STELLA ARTOIS Botella 330ml 6 Pack",
+        "sku": "5284",
+        "price": "S/ 27.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/570328-220-220/948889.jpg?v=637432124249570000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza HEINEKEN Lata 250 ml Pack 6un",
+        "sku": "99931463",
+        "price": "S/ 16.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/542385-220-220/20199657.jpg?v=637424377409800000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza PILSEN 12Pack Lata 355ml",
+        "sku": "5316",
+        "price": "S/ 39.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/312674-220-220/979253.jpg?v=637219605295730000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza STELLA ARTOIS Lata 269ml 6 Pack",
+        "sku": "100114611",
+        "price": "S/ 19.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2164887-220-220/20236380.jpg?v=637626650356700000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza TRES CRUCES Lata 355 ml Pack 6un",
+        "sku": "5542",
+        "price": "S/ 17.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/663760-220-220/20092401.jpg?v=637457174213930000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza TIGER Lata 355ml Paquete 6un",
+        "sku": "100137591",
+        "price": "S/ 19.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2848192-220-220/20241185.jpg?v=637717412795800000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza Light TRES CRUCES Lata 355ml Paquete 6un",
+        "sku": "99993108",
+        "price": "S/ 17.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/1034036-220-220/20209335.jpg?v=637498034985200000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Chopp de Cerveza VIVA HOME",
+        "sku": "29495",
+        "price": "S/ 3.92",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/211243-220-220/20132884.jpg?v=636874036911130000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Pack CORONA Cerveza Extra 6 Pack Botella 355ml x 2un",
+        "sku": "100020689",
+        "price": "S/ 47.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/1220189-220-220/s0000007999.jpg?v=637511641874070000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Pack HEINEKEN Cerveza Botella 330ml Pack 6un x 3un",
+        "sku": "100080852",
+        "price": "S/ 60.00",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/1844889-220-220/K0000000545.jpg?v=637583631213930000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Pack Cerveza HEINEKEN Lata 330 ml Pack 6un x 3un",
+        "sku": "100135148",
+        "price": "S/ 74.70",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2449442-220-220/K0000002040.jpg?v=637678421573900000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Pack Cerveza AMSTEL Lata 355ml Paquete 6un x 3un",
+        "sku": "100156204",
+        "price": "S/ 38.91",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2954189-220-220/K0000002374.jpg?v=637721766269600000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Pack Cerveza PILSEN 6 Pack Lata 355ml Paquete 3un",
+        "sku": "100182309",
+        "price": "S/ 54.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/5276499-220-220/K0000003003.jpg?v=637774264704370000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Pack PILSEN Cerveza 12 Pack Lata 355ml Paquete 2un",
+        "sku": "40439",
+        "price": "S/ 69.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/1763411-220-220/s000000174.jpg?v=637578242133970000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza PILSEN 6 Pack Lata 355ml",
+        "sku": "5407",
+        "price": "S/ 21.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/312678-220-220/20055168.jpg?v=637219605311700000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza CORONA Extra 6 Pack Botella 355ml",
+        "sku": "13246",
+        "price": "S/ 28.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/312684-220-220/755306.jpg?v=637219605341900000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza CUSQUEÑA Doble Malta Botella 310ml Paquete 6un",
+        "sku": "100120557",
+        "price": "S/ 21.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2259340-220-220/20237081.jpg?v=637647630614570000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza AMSTEL Lata 355ml Paqutete 12un",
+        "sku": "100081531",
+        "price": "S/ 29.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/4723018-220-220/20235135.jpg?v=637762336129300000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza PACÍFICO Botella 300ml Paquete 6un",
+        "sku": "100077880",
+        "price": "S/ 18.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2272724-220-220/20234887.jpg?v=637650857738930000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza Light TRES CRUCES Lata 473ml Paquete 6un",
+        "sku": "99993106",
+        "price": "S/ 18.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/1034035-220-220/20209334.jpg?v=637498034949400000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza BARBARIAN Magic Quinua Botella 330ml Pack 4un",
+        "sku": "99930147",
+        "price": "S/ 16.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2272710-220-220/20199031.jpg?v=637650857087330000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza TRES CRUCES Lata 473ml Pack 6un",
+        "sku": "27207",
+        "price": "S/ 21.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/663763-220-220/20137547.jpg?v=637457174340770000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Cerveza HEINEKEN Botella 330ml Pack 6un",
+        "sku": "5387",
+        "price": "S/ 27.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/542381-220-220/407618.jpg?v=637424377162970000",
+        "stock": 120,
+        "categoriees": "cerveza"
+      },
+      {
+        "producto": "Jamonada Especial BRAEDT Paquete 100g",
+        "sku": "79945",
+        "price": "S/ 2.50",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2446157-220-220/20192317.jpg?v=637677553701400000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Especial SALCHICHERÍA SUIZA Paquete 200g",
+        "sku": "8711",
+        "price": "S/ 4.70",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2515797-220-220/20066108.jpg?v=637687038567930000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada de Pavita SAN FERNANDO Paquete 85g",
+        "sku": "8670",
+        "price": "S/ 2.09",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/171848-220-220/20048184.jpg?v=635781925105570000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada de Pollo BELL'S Paquete 100g",
+        "sku": "8687",
+        "price": "S/ 1.59",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/258293-220-220/20056357.jpg?v=637073775081100000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada de Pollo SALCHICHERÍA ALEMANA Paquete 200g",
+        "sku": "99945966",
+        "price": "S/ 4.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/428418-220-220/20200729.jpg?v=637381505748400000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada de Pavita BELL'S -z",
+        "sku": "9019",
+        "price": "S/ 23.70",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/522282-220-220/20055839.jpg?v=637418522162370000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Polaca CASA EUROPA Paquete 200g",
+        "sku": "41348",
+        "price": "S/ 8.50",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/646509-220-220/20151266.jpg?v=637443534220930000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Bologna OTTO KUNZ Paquete 100g",
+        "sku": "9084",
+        "price": "S/ 3.50",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2446525-220-220/20064368.jpg?v=637677656613900000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada de Pollo OTTO KUNZ Paquete 200g",
+        "sku": "9118",
+        "price": "S/ 7.20",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2446526-220-220/20073963.jpg?v=637677656679230000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada de Pavita BELL'S Paquete 100g",
+        "sku": "9027",
+        "price": "S/ 2.30",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/267756-220-220/20056336.jpg?v=637097947251230000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Especial SALCHICHERÍA ALEMANA Paquete 200g",
+        "sku": "99945965",
+        "price": "S/ 5.49",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/428417-220-220/20200706.jpg?v=637381505413200000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Especial BELL'S Paquete 100g",
+        "sku": "9028",
+        "price": "S/ 3.00",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/258266-220-220/20056358.jpg?v=637073770179600000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada de Pollo LA FLORENCIA -z",
+        "sku": "8537",
+        "price": "S/ 18.49",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/522291-220-220/931521.jpg?v=637418522457200000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Pastel de Oliva SALCHICHERÍA ALEMANA",
+        "sku": "8414",
+        "price": "S/ 37.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/646248-220-220/995851.jpg?v=637443522036070000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada con Pollo SALCHICHERÍA SUIZA Paquete 200g",
+        "sku": "9090",
+        "price": "S/ 4.70",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2515796-220-220/20066107.jpg?v=637687038536630000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Polaca OTTO KUNZ Paquete 100g",
+        "sku": "8705",
+        "price": "S/ 4.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2446519-220-220/20064376.jpg?v=637677656413130000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada de Pollo BRAEDT Paquete 100g",
+        "sku": "18709",
+        "price": "S/ 2.50",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2449270-220-220/20064852.jpg?v=637678378684470000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Lonchera BRAEDT",
+        "sku": "8982",
+        "price": "S/ 26.30",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2446115-220-220/4459.jpg?v=637677549444230000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada LA FLORENCIA Especial",
+        "sku": "9018",
+        "price": "S/ 18.90",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/522284-220-220/20055786.jpg?v=637418522227700000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Polaca OTTO KUNZ",
+        "sku": "8983",
+        "price": "S/ 45.50",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/646156-220-220/470209.jpg?v=637443513501570000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Jamonada Polaca BRAEDT",
+        "sku": "8923",
+        "price": "S/ 43.00",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/2446109-220-220/22699.jpg?v=637677549173470000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      },
+      {
+        "producto": "Salame Cerveza SALCHICHERÍA ALEMANA",
+        "sku": "9010",
+        "price": "S/ 36.50",
+        "imageUrl": "https://plazavea.vteximg.com.br/arquivos/ids/646251-220-220/995875.jpg?v=637443522193700000",
+        "stock": 120,
+        "categoriees": "jamonada"
+      }
+  ]
